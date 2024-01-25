@@ -1,6 +1,6 @@
-## ML-Driven Trading Strategy for SPY Backtesting with Lumibot
+# ML-Driven Trading Strategy for SPY Backtesting with Lumibot
 
-# Overview
+ # Overview
 
 This project investigates a machine learning-powered trading strategy for the S&P 500 index ETF (SPY) using Lumibot. Backtesting analyzes the strategy's performance based on sentiment analysis of recent news headlines.
 
