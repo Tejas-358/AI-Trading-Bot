@@ -4,7 +4,7 @@
 
 This project investigates a machine learning-powered trading strategy for the S&P 500 index ETF (SPY) using Lumibot. Backtesting analyzes the strategy's performance based on sentiment analysis of recent news headlines.
 
-!![newplot](https://github.com/Tejas-358/AI-Trading-Bot/assets/92875852/6fa5c9ad-71b8-4080-8a0b-0cd75ee55781)
+![newplot](https://github.com/Tejas-358/AI-Trading-Bot/assets/92875852/6fa5c9ad-71b8-4080-8a0b-0cd75ee55781)
 
 
 # Strategy:
